@@ -1,0 +1,1 @@
+# udacity-artificial-intelligence-sign-language-interpreter
